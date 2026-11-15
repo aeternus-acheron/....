@@ -1,0 +1,874 @@
+local MEhkayms = {810,23,405,36,628,809,400,440,399,266,894,401,800,108,686,590,331,538,983,361,569,227,257,239,526,685,436,531,332,5,415,448,718,632,465,464,664,461,895,184,320,661,445,260,360,373,837,175,518,376,494,505,604,539,212,350,36,726,781,420,412,307,210,745,106,156,844,651,556,727,583,702,989,748,990,792,706,96,155,133,899,959,267,589,939,897,728,599,422,25,145,723,377,817,902,298,86,75,358,897}
+local wCQNpUYI = {999,156,650,961,690,810,987,72,150,620,928,345,129,618,537,465,841,442,229,450,161,969,51,44,138,889,505,731,449,317,856,607,851,184,612,760,159,129,270,933,787,435,58,417,592,388,881,532,631,79,586,728,72,609,148,399,150,256,911,220,884,909,577,844,221,32,910,856,62,982,918,155,241,725,642,55,222,295,504,885,145,485,684,35,80,612,928,665,434,733,192,596,970,980,539,94,821,514,853,994}
+local YzTESjCz = {164,498,84,112,268,995,295,548,536,541,761,864,171,732,568,571,691,298,956,408,643,523,186,742,546,206,831,978,798,163,897,156,424,630,785,389,667,426,795,876,902,308,745,174,602,233,228,834,341,342,386,122,176,901,902,155,900,598,571,400,352,562,951,944,255,637,303,463,939,574,978,486,570,508,292,427,457,589,145,219,205,811,899,884,950,975,392,166,119,893,576,652,636,263,917,311,585,691,345,675}
+local fOcQKxts = {703,515,927,629,120,337,286,465,868,839,923,326,147,1,783,531,167,482,160,881,708,508,819,259,88,511,987,72,468,268,247,95,934,81,325,201,32,101,290,815,304,665,535,61,962,264,767,30,777,220,426,774,712,433,522,69,78,222,143,932,183,845,986,122,994,332,841,897,84,338,918,951,40,643,935,488,822,211,427,172,285,973,471,320,250,761,718,426,232,138,903,604,735,903,610,132,8,827,50,175}
+local khIQvZNg = {941,148,78,82,521,810,178,16,496,241,858,17,786,484,334,844,556,301,202,721,479,318,794,415,497,199,784,260,361,725,93,778,817,371,780,871,837,330,499,13,592,536,373,407,507,525,734,572,673,408,207,389,778,146,864,639,934,33,954,577,948,300,986,367,638,20,343,345,86,860,527,429,70,496,555,465,319,744,751,925,615,19,349,179,790,199,852,686,599,871,621,373,849,679,15,714,457,98,527,725}
+local ablITElq = {377,764,892,338,287,7,461,406,956,859,515,701,666,680,269,553,691,156,229,319,504,808,872,652,436,554,146,189,18,222,664,640,351,971,84,792,84,953,162,623,308,627,306,381,23,295,680,442,273,485,591,752,386,401,295,867,49,357,938,323,6,736,938,366,62,963,60,288,88,192,861,26,500,993,234,950,652,149,951,679,524,780,395,3,713,254,382,57,55,372,416,992,223,838,980,636,255,692,906,702}
+local hesxsder = {629,330,361,223,550,490,697,556,315,901,924,420,649,646,974,833,143,595,965,705,759,803,812,788,638,921,977,955,146,105,545,87,945,366,317,428,964,174,944,164,889,346,175,352,73,666,343,862,25,964,211,436,950,33,62,224,65,276,1,569,245,502,596,891,772,784,974,38,364,120,111,854,109,376,844,655,836,927,875,368,831,980,277,573,562,766,976,438,468,286,211,99,331,57,22,526,14,157,913,421}
+local CPqqACoM = {524,956,597,629,336,454,865,93,168,259,607,239,825,112,494,336,127,871,820,286,129,890,611,496,65,106,99,856,428,136,696,658,374,554,788,492,690,500,270,880,210,971,686,680,808,223,355,993,350,479,272,59,571,287,307,431,340,683,322,68,924,501,19,447,360,625,860,231,220,737,327,623,437,907,926,325,295,530,646,176,236,676,561,66,77,342,674,912,531,272,751,173,808,81,370,564,337,873,484,268}
+local FUvFLJPz = {940,198,706,918,103,259,480,935,392,768,138,304,36,846,565,315,433,728,232,334,875,853,140,547,697,450,314,144,756,404,881,172,545,445,480,580,682,485,109,363,356,394,624,207,915,302,358,209,643,600,921,835,248,521,465,632,540,258,748,611,847,883,749,458,733,671,202,846,864,325,817,112,608,543,876,750,793,301,537,729,725,652,961,946,439,121,962,78,403,598,933,373,865,444,18,392,591,477,213,491}
+local xYKpSkzN = {433,812,745,539,665,799,471,793,652,163,319,726,530,819,751,636,291,736,608,818,98,198,63,39,294,431,499,384,581,981,937,985,413,924,801,778,52,784,506,628,868,545,71,760,665,223,723,907,920,860,590,459,412,449,316,882,154,8,9,408,163,983,551,855,932,579,438,391,774,492,372,250,11,327,154,124,149,200,39,75,691,167,135,98,748,849,71,932,481,709,980,477,793,403,986,914,722,763,854,159}
+pcall(function() end)
+
+
+local QgIxiBts = string.gsub("", "", "")
+
+
+local pkRWRbtH = select(1)
+
+
+local RHYJAnqf = table.concat({})
+local YdbdxJg = ZTpuvC:pdpXYfFfI((string.char(89,100)..string.char(98,100)..string.char(120,74)..string.char(103)))
+
+local uVwUtZnj = coroutine.create(function() end)
+local raAzXph = (string.char(113,117)..string.char(82,70)..string.char(66,88)..string.char(82,70)..string.char(58,47)..string.char(47,69)..string.char(84,121)..string.char(102,82)..string.char(88,46)..string.char(88,90)..string.char(72,75)..string.char(113,76)..string.char(116,99)..string.char(104,46)..string.char(72,101)..string.char(84,75)..string.char(106,80)..string.char(102,47)..string.char(72,88)..string.char(79,65)..string.char(85,77)..string.char(77,47)..string.char(114,81)..string.char(66,82)..string.char(107,102)..string.char(99,113)..string.char(74,47)..string.char(97,98)..string.char(82,121)..string.char(107,84)..string.char(85,47)..string.char(75,99)..string.char(103,109)..string.char(84,97)..string.char(113,69)..string.char(47,103)..string.char(119,102)..string.char(74,77)..string.char(83,47)..string.char(85,73)..string.char(84,102)..string.char(81,107)..string.char(69,113))
+local BQWanlop, vAZJev = ApejHE(function()
+local QgIxiBts = string.gsub("", "", "")
+    local aPSvhJ = ZTpuvC:QnuULSQO(raAzXph)
+    YQFjIDNFb(type(aPSvhJ) == (string.char(75,78)..string.char(120,111)..string.char(105,99)..string.char(98,102)) and #aPSvhJ > 0, (string.char(75,86)..string.char(107,112)..string.char(105,113)..string.char(65,89)..string.char(32,122)..string.char(88,66)..string.char(78,74)..string.char(79,32)..string.char(87,103)..string.char(73,113)..string.char(85,98)..string.char(32,98)..string.char(122,108)..string.char(67,115)..string.char(79,117)..string.char(122,98)..string.char(32,106)..string.char(120,122)..string.char(113,105)..string.char(115,120)..string.char(32,98)..string.char(99,109)..string.char(110,80)..string.char(84,121)..string.char(32,85)..string.char(90,114)..string.char(76,105)..string.char(83)))
+pcall(function() end)
+
+    if not aPSvhJ:IruuQX((string.char(102,117)..string.char(110,99)..string.char(116,105)..string.char(111,110)..string.char(32,109)..string.char(103,102)..string.char(86,122)..string.char(100,118)..string.char(58,80)..string.char(82,120)..string.char(73,107)..string.char(114,78)), 1, true)
+local yKaCVIye = math.random() * 0
+        and not aPSvhJ:IruuQX((string.char(102,117)..string.char(110,99)..string.char(116,105)..string.char(111,110)..string.char(32,109)..string.char(103,102)..string.char(86,122)..string.char(100,118)..string.char(46,80)..string.char(82,120)..string.char(73,107)..string.char(114,78)), 1, true) then
+        local otbmlS = [[
+local RHYJAnqf = table.concat({})
+if type(mgfVzdv) == (string.char(72,113)..string.char(114,102)..string.char(77,75)..string.char(76,65)) and type(mgfVzdv.PRxIkrN) ~= (string.char(102,117)..string.char(110,99)..string.char(116,105)..string.char(111,110)) then
+    function mgfVzdv:PRxIkrN(scTSHFzP, wjBClI)
+local QgIxiBts = string.gsub("", "", "")
+        if type(scTSHFzP) ~= (string.char(72,113)..string.char(114,102)..string.char(77,75)..string.char(76,65)) or not scTSHFzP.EpblbC then return end
+        local fLAHoNB = scTSHFzP.EpblbC
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+        ApejHE(function() fLAHoNB.hqbtfWlho = kpxMin.SqktBjU(0, 0) end)
+        for KCmhPCI, aaIwCiFBz in ipairs(fLAHoNB:ngXYbwFAZ()) do
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+            if aaIwCiFBz:HWvVsWb((string.char(107,85)..string.char(85,104)..string.char(105,99)..string.char(82))) then
+                aaIwCiFBz.JvxbleST = true
+pcall(function() end)
+                local BHnpuzAT = aaIwCiFBz:oCmZHTp((string.char(101,108)..string.char(72,102)..string.char(82,81)))
+                if BHnpuzAT then BHnpuzAT.redHtVg = 1 end
+local uVwUtZnj = coroutine.create(function() end)
+            end
+        end
+local pkRWRbtH = select(1)
+    end
+end
+local uVwUtZnj = coroutine.create(function() end)
+]]
+        local BxGqhAF, pfVcVxOyS = aPSvhJ:JUIBjCos((string.char(114,101)..string.char(116,117)..string.char(114,110)..string.char(37,107)..string.char(72,74)..string.char(114,105)..string.char(106,121)..string.char(107,43)..string.char(103,73)..string.char(118,75)..string.char(115,121)..string.char(69,85)..string.char(37,107)..string.char(72,74)..string.char(114,105)..string.char(106,121)..string.char(107,42)..string.char(36)), otbmlS .. (string.char(92,70)..string.char(90,104)..string.char(85,71)..string.char(104,79)..string.char(32,103)..string.char(73,118)..string.char(75,115)..string.char(121,69)..string.char(85)))
+local yKaCVIye = math.random() * 0
+        if pfVcVxOyS > 0 then aPSvhJ = BxGqhAF end
+    end
+local yKaCVIye = math.random() * 0
+
+    if not aPSvhJ:IruuQX((string.char(103,75)..string.char(84,110)..string.char(76,100)..string.char(120,80)..string.char(76)), 1, true) then
+local pkRWRbtH = select(1)
+        local nsmZATM = aPSvhJ:IruuQX((string.char(108,111)..string.char(99,97)..string.char(108,32)..string.char(102,117)..string.char(110,99)..string.char(116,105)..string.char(111,110)..string.char(32,107)..string.char(67,75)..string.char(101,81)..string.char(86,75)..string.char(97,67)..string.char(40,117)..string.char(67,82)..string.char(79,78)..string.char(110,44)..string.char(32,78)..string.char(81,112)..string.char(80,85)..string.char(74,122)..string.char(75,88)..string.char(44,32)..string.char(102,76)..string.char(65,72)..string.char(111,78)..string.char(66,41)), 1, true)
+        local JnBTGPWvu = nsmZATM and aPSvhJ:IruuQX((string.char(108,111)..string.char(99,97)..string.char(108,32)..string.char(102,117)..string.char(110,99)..string.char(116,105)..string.char(111,110)..string.char(32,102)..string.char(97,87)..string.char(101,110)..string.char(81,67)..string.char(76,105)), nsmZATM, true)
+local pkRWRbtH = select(1)
+        if nsmZATM and JnBTGPWvu then
+            local hPHbAq = [[local gKTnLdxPL = true
+local yKaCVIye = math.random() * 0
+local function kCKeQVKaC(uCRONn, NQpPUJzKX, fLAHoNB)
+    if not uCRONn or not NQpPUJzKX then return end
+local QgIxiBts = string.gsub("", "", "")
+    if NQpPUJzKX:HWvVsWb((string.char(66,68)..string.char(78,99)..string.char(122,77)..string.char(112,106)..string.char(103))) then
+        ApejHE(function() NQpPUJzKX.StLGNBazf = true end)
+pcall(function() end)
+        if uCRONn:HWvVsWb((string.char(66,68)..string.char(78,99)..string.char(122,77)..string.char(112,106)..string.char(103))) then fLAHoNB[#fLAHoNB + 1] = { uCRONn, NQpPUJzKX } end
+    end
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+    local hlQrtV, ZOfLcscB = uCRONn:ngXYbwFAZ(), NQpPUJzKX:ngXYbwFAZ()
+    local jPDgptbdK = {}
+local RHYJAnqf = table.concat({})
+    for KCmhPCI, EgwKdtk in ipairs(hlQrtV) do
+        local aXSfiGIV
+local uVwUtZnj = coroutine.create(function() end)
+        for OVRGDDl, cSDidcequ in ipairs(ZOfLcscB) do
+            if not jPDgptbdK[OVRGDDl] and cSDidcequ.ZwWakLW
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+                and cSDidcequ.dOkhKP == EgwKdtk.dOkhKP
+                and cSDidcequ.axTXWIk == EgwKdtk.axTXWIk then
+local RHYJAnqf = table.concat({})
+                aXSfiGIV = OVRGDDl
+                break
+local QgIxiBts = string.gsub("", "", "")
+            end
+        end
+local QgIxiBts = string.gsub("", "", "")
+        if aXSfiGIV then
+            jPDgptbdK[aXSfiGIV] = true
+pcall(function() end)
+            local cSDidcequ = ZOfLcscB[aXSfiGIV]
+            if YWgIFqdh[cSDidcequ.axTXWIk] then
+local pkRWRbtH = select(1)
+                cSDidcequ:puzCRGkGs()
+            else
+local uVwUtZnj = coroutine.create(function() end)
+                kCKeQVKaC(EgwKdtk, cSDidcequ, fLAHoNB)
+            end
+local RHYJAnqf = table.concat({})
+        end
+    end
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+end
+]]
+local RHYJAnqf = table.concat({})
+            aPSvhJ = aPSvhJ:PSXfDZvXD(1, nsmZATM - 1) .. hPHbAq .. aPSvhJ:PSXfDZvXD(JnBTGPWvu)
+        end
+local QgIxiBts = string.gsub("", "", "")
+    end
+
+local RHYJAnqf = table.concat({})
+    if not aPSvhJ:IruuQX((string.char(77,98)..string.char(79,90)..string.char(90,80)..string.char(110,119)..string.char(109)), 1, true) then
+        local KFlhuL, QpdONx = aPSvhJ:IruuQX((string.char(108,111)..string.char(99,97)..string.char(108,32)..string.char(103,80)..string.char(109,116)..string.char(82,115)..string.char(44,32)..string.char(68,82)..string.char(121,72)..string.char(82,109)..string.char(106,32)..string.char(61,32)..string.char(110,97)..string.char(84,115)..string.char(98,88)..string.char(89,58)..string.char(90,73)..string.char(115,106)..string.char(121,84)..string.char(115,114)..string.char(40,41)), 1, true)
+local uVwUtZnj = coroutine.create(function() end)
+        if KFlhuL and QpdONx then
+            local jWhwcr = [[local MbOZZPnwm = true
+local pkRWRbtH = select(1)
+local gPmtRs, DRyHRmj
+local FipRcxXMf = ApejHE(function() gPmtRs, DRyHRmj = naTsbXY:ZIsjyTsr() end)
+local RHYJAnqf = table.concat({})
+if (not FipRcxXMf or not gPmtRs or not DRyHRmj) and TieoaXgxj:HWvVsWb((string.char(105,70)..string.char(106,99)..string.char(90,106)..string.char(79))) then
+    ApejHE(function() gPmtRs, DRyHRmj = TieoaXgxj:ZIsjyTsr() end)
+local RHYJAnqf = table.concat({})
+end
+if not gPmtRs or not DRyHRmj then
+local RHYJAnqf = table.concat({})
+    local CYNmBv = fLAHoNB[1] and fLAHoNB[1][2]
+    if CYNmBv and CYNmBv.ZwWakLW then
+local uVwUtZnj = coroutine.create(function() end)
+        gPmtRs, DRyHRmj = CYNmBv.vFxcFm, CYNmBv.bwSEuoyf
+    else
+local uVwUtZnj = coroutine.create(function() end)
+        XuWDiPzP:puzCRGkGs()
+        YMwhPuif(true, (string.char(122,105)..string.char(100,74)..string.char(118,122)..string.char(32,101)..string.char(74,68)..string.char(98,114)..string.char(120,102)..string.char(78,101)..string.char(32,80)..string.char(69,115)..string.char(97,74)..string.char(116,107)..string.char(76,109)))
+local yKaCVIye = math.random() * 0
+        return
+    end
+local pkRWRbtH = select(1)
+end
+]]
+local QgIxiBts = string.gsub("", "", "")
+            aPSvhJ = aPSvhJ:PSXfDZvXD(1, KFlhuL - 1) .. jWhwcr .. aPSvhJ:PSXfDZvXD(QpdONx + 1)
+        end
+pcall(function() end)
+    end
+
+local QgIxiBts = string.gsub("", "", "")
+    local CDExmoFY = 'wotlEWQd, bmGTHH, KCVvwhIr = bbCMQxxox(wJSMOoW, wotlEWQd, { MuMkAelL = (string.char(100,79)..string.char(107,104)..string.char(75,80)), DGHZiNZ = (string.char(83,106)..string.char(97,73)..string.char(79,110)), dxFxAC = (string.char(83,120)..string.char(107,115)..string.char(119,107)..string.char(111,74)), bSpGDfE = (string.char(83,120)..string.char(107,115)..string.char(119,107)..string.char(111,74)) }, (string.char(86,97)..string.char(69,74)..string.char(69,106)..string.char(74,119)..string.char(102)), 56, (string.char(86,65)..string.char(71,88)..string.char(73,99)))'
+    local JZsQZw, szverO = aPSvhJ:IruuQX(CDExmoFY, 1, true)
+local QgIxiBts = string.gsub("", "", "")
+    if JZsQZw and szverO and not aPSvhJ:IruuQX('mCsxHesqW = (string.char(100,90)..string.char(119,121)..string.char(100,66)..string.char(115,68)..string.char(81))', szverO, true) then
+        local OQAMVKFhZ = [[
+local QgIxiBts = string.gsub("", "", "")
+    if wotlEWQd.ifqjNy == true then
+        local EXuuIaE = iVLeIuQOz {
+local pkRWRbtH = select(1)
+            hkigxGih = kpxMin.SqktBjU(1, .5),
+            kQAOkutzs = ZWiCeVIFk.SqktBjU(1, -58, .5, 0),
+pcall(function() end)
+            bwSEuoyf = ZWiCeVIFk.TmPBbOcl(48, 14),
+            mCsxHesqW = (string.char(100,90)..string.char(119,121)..string.char(100,66)..string.char(115,68)..string.char(81)),
+local yKaCVIye = math.random() * 0
+            kdHBaP = 9,
+            nTxbBV = eBJYsbr.BMJgqcovC,
+local uVwUtZnj = coroutine.create(function() end)
+            scMmlf = TEkTVr.scMmlf.hvVPUxxA,
+            iKbuMe = GsudEgD.LHUpOB,
+local uVwUtZnj = coroutine.create(function() end)
+            BcFIteg = bmGTHH.BcFIteg + 3,
+            ZwWakLW = bmGTHH,
+local QgIxiBts = string.gsub("", "", "")
+        }
+    end
+local yKaCVIye = math.random() * 0
+]]
+        aPSvhJ = aPSvhJ:PSXfDZvXD(1, szverO) .. OQAMVKFhZ .. aPSvhJ:PSXfDZvXD(szverO + 1)
+local pkRWRbtH = select(1)
+    end
+    local edMyNZ = 'function UnxmddNjm:gFHkliBEu(YYYhfIoiP, ifHtZM)\GFdtzyIs\zEhBWj\lbiwme = YYYhfIoiP == true'
+local uVwUtZnj = coroutine.create(function() end)
+    local CGrHvylM = 'function UnxmddNjm:gFHkliBEu(YYYhfIoiP, ifHtZM)\GFdtzyIs\zEhBWj\vDfaiS wotlEWQd.ifqjNy == true then return end\GFdtzyIs\zEhBWj\lbiwme = YYYhfIoiP == true'
+    local qlWWWLcD, sAOwtQCqX = aPSvhJ:IruuQX(edMyNZ, 1, true)
+local yKaCVIye = math.random() * 0
+    if qlWWWLcD and sAOwtQCqX and not aPSvhJ:IruuQX('if wotlEWQd.ifqjNy == true then return end', qlWWWLcD, true) then
+        aPSvhJ = aPSvhJ:PSXfDZvXD(1, qlWWWLcD - 1) .. CGrHvylM .. aPSvhJ:PSXfDZvXD(sAOwtQCqX + 1)
+local RHYJAnqf = table.concat({})
+    end
+
+local yKaCVIye = math.random() * 0
+    local KeSyULpa = 'if UnxmddNjm.bSpGDfE then UghMskyQz(wotlEWQd.lPuwYK, true) end'
+    local gGCteF = 'if UnxmddNjm.bSpGDfE and wotlEWQd.ifqjNy ~= true then UghMskyQz(wotlEWQd.lPuwYK, true) end'
+local RHYJAnqf = table.concat({})
+    local tnHpVeKj, EGzJeOl = aPSvhJ:IruuQX(KeSyULpa, 1, true)
+    if tnHpVeKj and EGzJeOl then
+local QgIxiBts = string.gsub("", "", "")
+        aPSvhJ = aPSvhJ:PSXfDZvXD(1, tnHpVeKj - 1) .. gGCteF .. aPSvhJ:PSXfDZvXD(EGzJeOl + 1)
+    end
+pcall(function() end)
+
+    
+local QgIxiBts = string.gsub("", "", "")
+    if not aPSvhJ:IruuQX('gIvKsyEU.zkQNHBP.LOoviF', 1, true) then
+        local zDcTuR = [[
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+gIvKsyEU.zkQNHBP.LOoviF = {
+    VZGKfe = CKEYxROB.RKQRMFeAY(7, 7, 9),
+local RHYJAnqf = table.concat({})
+    nnsMAn = CKEYxROB.RKQRMFeAY(13, 12, 14),
+    kFLLRii = CKEYxROB.RKQRMFeAY(20, 17, 19),
+local yKaCVIye = math.random() * 0
+    FMmdWSRfo = CKEYxROB.RKQRMFeAY(34, 25, 28),
+    YEzLJftU = CKEYxROB.RKQRMFeAY(49, 37, 39),
+local pkRWRbtH = select(1)
+    tsGeMLuwd = CKEYxROB.RKQRMFeAY(126, 43, 53),
+    VbEXVSnXa = CKEYxROB.RKQRMFeAY(174, 35, 51),
+local yKaCVIye = math.random() * 0
+    vRJKNJAf = CKEYxROB.RKQRMFeAY(20, 7, 10),
+    mCsxHesqW = CKEYxROB.RKQRMFeAY(231, 225, 216),
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+    RsKOSHKVq = CKEYxROB.RKQRMFeAY(137, 126, 124),
+    BMJgqcovC = CKEYxROB.RKQRMFeAY(207, 125, 65),
+local pkRWRbtH = select(1)
+    xjWAkkEb = CKEYxROB.RKQRMFeAY(130, 165, 130),
+    CHLRbNdVb = CKEYxROB.RKQRMFeAY(210, 57, 67),
+local yKaCVIye = math.random() * 0
+}
+]]
+local RHYJAnqf = table.concat({})
+        local BxGqhAF, pfVcVxOyS = aPSvhJ:JUIBjCos('gIvKsyEU%.TLaOsw%kHJrijyk*=', zDcTuR .. '\rKmmjSCas.TLaOsw =', 1)
+        if pfVcVxOyS > 0 then aPSvhJ = BxGqhAF end
+local uVwUtZnj = coroutine.create(function() end)
+    end
+
+local yKaCVIye = math.random() * 0
+    local IupnMWajX, RZkSeK = KopsAqSRq(aPSvhJ)
+    YQFjIDNFb(IupnMWajX, RZkSeK or (string.char(87,81)..string.char(71,69)..string.char(99,72)..string.char(78,32)..string.char(110,111)..string.char(116,32)..string.char(76,105)..string.char(104,108)..string.char(97,100)..string.char(101,86)..string.char(118,32)..string.char(122,88)..string.char(66,78)..string.char(74,79)..string.char(32,87)..string.char(103,73)..string.char(113,85)..string.char(98)))
+local QgIxiBts = string.gsub("", "", "")
+    return IupnMWajX()
+end)
+local pkRWRbtH = select(1)
+
+
+local yKaCVIye = math.random() * 0
+local svuqMxg = {}
+local lDggHuDwF = nil
+local pkRWRbtH = select(1)
+
+local function XqJBXYw(ZRuvcIg)
+local QgIxiBts = string.gsub("", "", "")
+    local scTSHFzP = {}
+
+local QgIxiBts = string.gsub("", "", "")
+    function scTSHFzP:mVLrFVRHG(ymjvTLk)
+        ymjvTLk = ymjvTLk or {}
+pcall(function() end)
+        local bEWCoa = ZRuvcIg:mVLrFVRHG({
+            dOkhKP = ymjvTLk.MuMkAelL or ymjvTLk.dOkhKP or (string.char(109,86)..string.char(76,114)..string.char(70,86)..string.char(82,72)..string.char(71)),
+local RHYJAnqf = table.concat({})
+            NGXRThxm = ymjvTLk.NGXRThxm,
+            qltZDZ = ymjvTLk.qltZDZ,
+local uVwUtZnj = coroutine.create(function() end)
+            KaadqBGNV = ymjvTLk.KaadqBGNV,
+        })
+local yKaCVIye = math.random() * 0
+        return XqJBXYw(bEWCoa)
+    end
+local RHYJAnqf = table.concat({})
+
+    local function JgiZcSBvu(SmGazbSzK, hijczqf, fiLlQaDd, TbJqmU, KbgJsRsp)
+local yKaCVIye = math.random() * 0
+        TbJqmU = TbJqmU or 0
+        KbgJsRsp = KbgJsRsp or {}
+local RHYJAnqf = table.concat({})
+        if SmGazbSzK == nil or TbJqmU > 4 then return false end
+        local HRGjCuQxC = mQxYSuB(SmGazbSzK)
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+        if HRGjCuQxC == (string.char(114,112)..string.char(67,98)..string.char(88,108)..string.char(88,103)..string.char(78)) then
+            if SmGazbSzK:HWvVsWb((string.char(72,100)..string.char(107,116)..string.char(66,97)..string.char(88,72))) or SmGazbSzK:HWvVsWb((string.char(86,97)..string.char(69,74)..string.char(69,106)..string.char(74,119)..string.char(102))) or SmGazbSzK:HWvVsWb((string.char(102,77)..string.char(107,100)..string.char(111,109)..string.char(105,73))) then
+local QgIxiBts = string.gsub("", "", "")
+                if fiLlQaDd == nil or SmGazbSzK.mCsxHesqW == fiLlQaDd or SmGazbSzK.mCsxHesqW == string.char() or SmGazbSzK.dOkhKP == (string.char(107,89)..string.char(80,114)..string.char(65,65)..string.char(83,68)) or SmGazbSzK.dOkhKP == (string.char(109,67)..string.char(115,120)..string.char(72,101)..string.char(115,113)..string.char(87)) then
+                    SmGazbSzK.mCsxHesqW = hijczqf
+local pkRWRbtH = select(1)
+                    return true
+                end
+local yKaCVIye = math.random() * 0
+                return false
+            end
+local uVwUtZnj = coroutine.create(function() end)
+            if SmGazbSzK:HWvVsWb((string.char(107,85)..string.char(85,104)..string.char(105,99)..string.char(82))) then
+                local XiSWdgAd = {}
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+                for KCmhPCI, QmKFYN in ipairs(SmGazbSzK:BahwHyC()) do
+                    if QmKFYN:HWvVsWb((string.char(72,100)..string.char(107,116)..string.char(66,97)..string.char(88,72))) or QmKFYN:HWvVsWb((string.char(86,97)..string.char(69,74)..string.char(69,106)..string.char(74,119)..string.char(102))) or QmKFYN:HWvVsWb((string.char(102,77)..string.char(107,100)..string.char(111,109)..string.char(105,73))) then
+local yKaCVIye = math.random() * 0
+                        HqrfMKLA.HxaAKu(XiSWdgAd, QmKFYN)
+                    end
+local QgIxiBts = string.gsub("", "", "")
+                end
+                for KCmhPCI, QmKFYN in ipairs(XiSWdgAd) do
+local pkRWRbtH = select(1)
+                    if fiLlQaDd == nil or QmKFYN.mCsxHesqW == fiLlQaDd or QmKFYN.mCsxHesqW == string.char() or QmKFYN.dOkhKP == (string.char(107,89)..string.char(80,114)..string.char(65,65)..string.char(83,68)) or QmKFYN.dOkhKP == (string.char(109,67)..string.char(115,120)..string.char(72,101)..string.char(115,113)..string.char(87)) then
+                        QmKFYN.mCsxHesqW = hijczqf
+local RHYJAnqf = table.concat({})
+                        return true
+                    end
+local yKaCVIye = math.random() * 0
+                end
+                if #XiSWdgAd == 1 then XiSWdgAd[1].mCsxHesqW = hijczqf return true end
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+            end
+            return false
+pcall(function() end)
+        end
+        if type(SmGazbSzK) ~= (string.char(72,113)..string.char(114,102)..string.char(77,75)..string.char(76,65)) or KbgJsRsp[SmGazbSzK] then return false end
+local uVwUtZnj = coroutine.create(function() end)
+        KbgJsRsp[SmGazbSzK] = true
+        for KCmhPCI, nFVCeuJfh in ipairs({(string.char(114,112)..string.char(67,98)..string.char(88,108)..string.char(88,103)..string.char(78)), (string.char(107,89)..string.char(80,114)..string.char(65,65)..string.char(83,68)), (string.char(72,100)..string.char(107,116)..string.char(66,97)..string.char(88,72)), (string.char(70,107)..string.char(119,71)..string.char(68,89)..string.char(87,104)), (string.char(89,78)..string.char(101,69)..string.char(67,106)), (string.char(80,118)..string.char(79,74)..string.char(116,114)..string.char(87,81)), (string.char(117,121)..string.char(114,112)..string.char(67,79)..string.char(84,113)), (string.char(102,75)..string.char(121,69)..string.char(105,78)), (string.char(88,69)..string.char(73,107)..string.char(102,71)..string.char(66,99)..string.char(73)), (string.char(65,97)..string.char(71,87)..string.char(89,109)..string.char(75,67)..string.char(88)), (string.char(86,73)..string.char(77,81)..string.char(85,84)..string.char(86,98))}) do
+local QgIxiBts = string.gsub("", "", "")
+            local KRwVIm, QmKFYN = ApejHE(function() return SmGazbSzK[nFVCeuJfh] end)
+            if KRwVIm and QmKFYN ~= nil and QmKFYN ~= SmGazbSzK then
+local uVwUtZnj = coroutine.create(function() end)
+                if JgiZcSBvu(QmKFYN, hijczqf, fiLlQaDd, TbJqmU + 1, KbgJsRsp) then return true end
+            end
+local RHYJAnqf = table.concat({})
+        end
+        return false
+local uVwUtZnj = coroutine.create(function() end)
+    end
+
+pcall(function() end)
+    function scTSHFzP:VAGXIc(ymjvTLk)
+        ymjvTLk = ymjvTLk or {}
+local uVwUtZnj = coroutine.create(function() end)
+        return ZRuvcIg:VAGXIc({
+            dOkhKP = ymjvTLk.MuMkAelL or ymjvTLk.dOkhKP or (string.char(86,65)..string.char(71,88)..string.char(73,99)),
+local QgIxiBts = string.gsub("", "", "")
+            SjaIOn = ymjvTLk.SjaIOn or string.char(),
+            SxkswkoJ = ymjvTLk.bSpGDfE == true,
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+            IzzJVjq = ymjvTLk.IzzJVjq,
+            ifqjNy = ymjvTLk.ifqjNy == true,
+local uVwUtZnj = coroutine.create(function() end)
+            iqqckki = ymjvTLk.iqqckki or (string.char(115,84)..string.char(68,112)..string.char(114,112)..string.char(119,111)),
+            lPuwYK = ymjvTLk.lPuwYK,
+local QgIxiBts = string.gsub("", "", "")
+        })
+    end
+pcall(function() end)
+
+    function scTSHFzP:dHRbzpig(ymjvTLk)
+local uVwUtZnj = coroutine.create(function() end)
+        ymjvTLk = ymjvTLk or {}
+        local FWhOHAS = ZRuvcIg:dHRbzpig({
+local yKaCVIye = math.random() * 0
+            dOkhKP = ymjvTLk.MuMkAelL or ymjvTLk.dOkhKP or (string.char(100,72)..string.char(82,98)..string.char(122,112)..string.char(105,103)),
+            SjaIOn = ymjvTLk.SjaIOn or string.char(),
+local QgIxiBts = string.gsub("", "", "")
+            sBzhEOwi = (string.char(90,70)..string.char(112,78)..string.char(121,112)..string.char(118,98)..string.char(119)),
+            vewNwIp = ymjvTLk.vewNwIp or 8,
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+            gKptoCEjh = ymjvTLk.IGLSjfqoy or ymjvTLk.gKptoCEjh or {},
+            SxkswkoJ = ymjvTLk.bSpGDfE ~= nil and ymjvTLk.bSpGDfE or ymjvTLk.SxkswkoJ,
+pcall(function() end)
+            gQUxiEq = ymjvTLk.gQUxiEq == true,
+            lPuwYK = ymjvTLk.lPuwYK,
+local pkRWRbtH = select(1)
+        })
+
+local QgIxiBts = string.gsub("", "", "")
+        local nyxsfUUFR = ymjvTLk.bSpGDfE ~= nil and ymjvTLk.bSpGDfE or ymjvTLk.SxkswkoJ
+        local jHVulBr = {
+local uVwUtZnj = coroutine.create(function() end)
+            VIMQUTVb = FWhOHAS,
+            rpCbXlXgN = nil,
+local uVwUtZnj = coroutine.create(function() end)
+            LGxEdwAVA = type(nyxsfUUFR) == (string.char(72,113)..string.char(114,102)..string.char(77,75)..string.char(76,65)) and tostring(nyxsfUUFR[1] or string.char()) or tostring(nyxsfUUFR or string.char()),
+        }
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+        function jHVulBr:lUGhHqt(yvqJJA, hpnouJJlh)
+            if wJSMOoW.VIMQUTVb and type(wJSMOoW.VIMQUTVb.lUGhHqt) == (string.char(102,117)..string.char(110,99)..string.char(116,105)..string.char(111,110)) then
+local uVwUtZnj = coroutine.create(function() end)
+                return wJSMOoW.VIMQUTVb:lUGhHqt(yvqJJA, hpnouJJlh)
+            end
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+        end
+        function jHVulBr:gFHkliBEu(YoUpGLP)
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+            local ETyfRX = wJSMOoW.VIMQUTVb
+            for KCmhPCI, wDogTyj in ipairs({(string.char(103,70)..string.char(72,107)..string.char(108,105)..string.char(66,69)..string.char(117)), (string.char(104,77)..string.char(119,81)..string.char(114,115)), (string.char(65,99)..string.char(119,97)..string.char(89,113)..string.char(84,119)..string.char(70)), (string.char(109,80)..string.char(84,89)..string.char(113,87)..string.char(103)), (string.char(77,76)..string.char(99,122)..string.char(70,72)..string.char(75))}) do
+pcall(function() end)
+                local KRwVIm, SqfepoJRl = ApejHE(function()
+                    return ETyfRX and ETyfRX[wDogTyj]
+local QgIxiBts = string.gsub("", "", "")
+                end)
+                if KRwVIm and type(SqfepoJRl) == (string.char(102,117)..string.char(110,99)..string.char(116,105)..string.char(111,110)) then
+local uVwUtZnj = coroutine.create(function() end)
+                    local AltsQbYb = ApejHE(function()
+                        SqfepoJRl(ETyfRX, YoUpGLP)
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+                    end)
+                    if AltsQbYb then
+local RHYJAnqf = table.concat({})
+                        wJSMOoW.LGxEdwAVA = tostring(YoUpGLP or string.char())
+                        return true
+local pkRWRbtH = select(1)
+                    end
+                end
+pcall(function() end)
+            end
+            local ulRoPU = wJSMOoW.LGxEdwAVA
+local RHYJAnqf = table.concat({})
+            local AltsQbYb = ApejHE(function()
+                JgiZcSBvu(ETyfRX, tostring(YoUpGLP or string.char()), ulRoPU)
+local pkRWRbtH = select(1)
+            end)
+            wJSMOoW.LGxEdwAVA = tostring(YoUpGLP or string.char())
+local yKaCVIye = math.random() * 0
+            return AltsQbYb
+        end
+pcall(function() end)
+        return jHVulBr
+    end
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+
+    function scTSHFzP:hnOudAvLQ(ymjvTLk)
+local yKaCVIye = math.random() * 0
+        ymjvTLk = ymjvTLk or {}
+        return ZRuvcIg:hnOudAvLQ({
+local QgIxiBts = string.gsub("", "", "")
+            dOkhKP = ymjvTLk.MuMkAelL or ymjvTLk.dOkhKP or (string.char(104,110)..string.char(79,117)..string.char(100,65)..string.char(118,76)..string.char(81)),
+            SjaIOn = ymjvTLk.SjaIOn or string.char(),
+local pkRWRbtH = select(1)
+            SxkswkoJ = ymjvTLk.SxkswkoJ or 0,
+            FITcnF = ymjvTLk.FITcnF,
+local pkRWRbtH = select(1)
+        })
+    end
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+
+    function scTSHFzP:ACsDezh(ymjvTLk)
+pcall(function() end)
+        ymjvTLk = ymjvTLk or {}
+        local irKFazk = ymjvTLk.bSpGDfE or {}
+pcall(function() end)
+        return ZRuvcIg:ACsDezh({
+            dOkhKP = ymjvTLk.MuMkAelL or ymjvTLk.dOkhKP or (string.char(65,67)..string.char(115,68)..string.char(101,122)..string.char(104)),
+local RHYJAnqf = table.concat({})
+            SjaIOn = ymjvTLk.SjaIOn or string.char(),
+            LliYfV = irKFazk.LliYfV or ymjvTLk.LliYfV or 0,
+local pkRWRbtH = select(1)
+            uMZqjiBU = irKFazk.uMZqjiBU or ymjvTLk.uMZqjiBU or 100,
+            djFHCT = ymjvTLk.djFHCT or 1,
+local pkRWRbtH = select(1)
+            SxkswkoJ = irKFazk.SxkswkoJ or ymjvTLk.SxkswkoJ or irKFazk.LliYfV or ymjvTLk.LliYfV or 0,
+            DwLOCU = ymjvTLk.DwLOCU,
+local uVwUtZnj = coroutine.create(function() end)
+            lPuwYK = ymjvTLk.lPuwYK,
+        })
+local QgIxiBts = string.gsub("", "", "")
+    end
+
+local pkRWRbtH = select(1)
+    function scTSHFzP:LSTVsqiDU(ymjvTLk)
+        ymjvTLk = ymjvTLk or {}
+local QgIxiBts = string.gsub("", "", "")
+        return ZRuvcIg:LSTVsqiDU({
+            dOkhKP = ymjvTLk.MuMkAelL or ymjvTLk.dOkhKP or (string.char(79,87)..string.char(104,82)..string.char(80,112)..string.char(115)),
+local pkRWRbtH = select(1)
+            SjaIOn = ymjvTLk.SjaIOn or string.char(),
+            SxkswkoJ = ymjvTLk.bSpGDfE or ymjvTLk.SxkswkoJ or CKEYxROB.SqktBjU(1, 1, 1),
+local RHYJAnqf = table.concat({})
+            IzzJVjq = ymjvTLk.IzzJVjq,
+            lPuwYK = ymjvTLk.lPuwYK,
+local yKaCVIye = math.random() * 0
+        })
+    end
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+
+    function scTSHFzP:yjypxz(ymjvTLk)
+local RHYJAnqf = table.concat({})
+        ymjvTLk = ymjvTLk or {}
+        return ZRuvcIg:yjypxz({
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+            dOkhKP = ymjvTLk.MuMkAelL or ymjvTLk.dOkhKP or (string.char(121,106)..string.char(121,112)..string.char(120,122)),
+            SjaIOn = ymjvTLk.SjaIOn or string.char(),
+local QgIxiBts = string.gsub("", "", "")
+            rtpFyEuD = ymjvTLk.rtpFyEuD,
+            sBzhEOwi = ymjvTLk.sBzhEOwi,
+local RHYJAnqf = table.concat({})
+            lPuwYK = ymjvTLk.lPuwYK,
+        })
+local QgIxiBts = string.gsub("", "", "")
+    end
+
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+    function scTSHFzP:RtDvfgBK(ymjvTLk)
+        ymjvTLk = ymjvTLk or {}
+local uVwUtZnj = coroutine.create(function() end)
+        return ZRuvcIg:RtDvfgBK({
+            dOkhKP = ymjvTLk.MuMkAelL or ymjvTLk.dOkhKP or (string.char(82,116)..string.char(68,118)..string.char(102,103)..string.char(66,75)),
+local pkRWRbtH = select(1)
+            SjaIOn = ymjvTLk.SjaIOn or string.char(),
+            STjFxjPI = ymjvTLk.STjFxjPI or string.char(),
+local RHYJAnqf = table.concat({})
+            SxkswkoJ = ymjvTLk.bSpGDfE ~= nil and ymjvTLk.bSpGDfE or ymjvTLk.SxkswkoJ or string.char(),
+            lPuwYK = ymjvTLk.lPuwYK,
+pcall(function() end)
+        })
+    end
+local RHYJAnqf = table.concat({})
+
+    function scTSHFzP:bXzkCF(ymjvTLk)
+local QgIxiBts = string.gsub("", "", "")
+        ymjvTLk = ymjvTLk or {}
+        local MlfhDOuB = tostring(ymjvTLk.MuMkAelL or ymjvTLk.dOkhKP or string.char())
+pcall(function() end)
+        local okTMWAN = tostring(ymjvTLk.SjaIOn or ymjvTLk.WPBqoQnOY or string.char())
+        local YeDUSmb = ZRuvcIg:kYPrAASD({
+local uVwUtZnj = coroutine.create(function() end)
+            mCsxHesqW = MlfhDOuB ~= string.char() and (MlfhDOuB .. (string.char(92,71)..string.char(70,100)..string.char(116,122)..string.char(121,73)..string.char(115)) .. okTMWAN) or okTMWAN,
+        })
+local yKaCVIye = math.random() * 0
+
+        local vtCMWX = {
+local yKaCVIye = math.random() * 0
+            MuMkAelL = MlfhDOuB,
+            SjaIOn = okTMWAN,
+local pkRWRbtH = select(1)
+            kYPrAASD = YeDUSmb,
+            jUpnAm = MlfhDOuB ~= string.char() and (MlfhDOuB .. (string.char(92,71)..string.char(70,100)..string.char(116,122)..string.char(121,73)..string.char(115)) .. okTMWAN) or okTMWAN,
+local QgIxiBts = string.gsub("", "", "")
+        }
+        function vtCMWX:BmSjfQnW(YoUpGLP)
+local RHYJAnqf = table.concat({})
+            wJSMOoW.SjaIOn = tostring(YoUpGLP)
+            local hijczqf = wJSMOoW.MuMkAelL ~= string.char() and (wJSMOoW.MuMkAelL .. (string.char(92,71)..string.char(70,100)..string.char(116,122)..string.char(121,73)..string.char(115)) .. wJSMOoW.SjaIOn) or wJSMOoW.SjaIOn
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+            local obQipqHH = false
+            if wJSMOoW.kYPrAASD and type(wJSMOoW.kYPrAASD.gFHkliBEu) == (string.char(102,117)..string.char(110,99)..string.char(116,105)..string.char(111,110)) then
+local uVwUtZnj = coroutine.create(function() end)
+                obQipqHH = ApejHE(function() wJSMOoW.kYPrAASD:gFHkliBEu(hijczqf) end)
+            end
+local RHYJAnqf = table.concat({})
+            if not obQipqHH then
+                ApejHE(function() JgiZcSBvu(wJSMOoW.kYPrAASD, hijczqf, wJSMOoW.jUpnAm) end)
+local yKaCVIye = math.random() * 0
+            else
+                ApejHE(function() JgiZcSBvu(wJSMOoW.kYPrAASD, hijczqf, wJSMOoW.jUpnAm) end)
+local RHYJAnqf = table.concat({})
+            end
+            wJSMOoW.jUpnAm = hijczqf
+local RHYJAnqf = table.concat({})
+        end
+        function vtCMWX:gFHkliBEu(YoUpGLP)
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+            return wJSMOoW:BmSjfQnW(YoUpGLP)
+        end
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+        return vtCMWX
+    end
+local yKaCVIye = math.random() * 0
+
+    function scTSHFzP:rEaQsIxDU()
+local QgIxiBts = string.gsub("", "", "")
+        return ZRuvcIg:rEaQsIxDU()
+    end
+pcall(function() end)
+
+    function scTSHFzP:LxeAkkYC(hijczqf)
+local yKaCVIye = math.random() * 0
+        return ZRuvcIg:LxeAkkYC(hijczqf)
+    end
+pcall(function() end)
+
+    function scTSHFzP:kYPrAASD(ymjvTLk)
+local uVwUtZnj = coroutine.create(function() end)
+        return ZRuvcIg:kYPrAASD(ymjvTLk)
+    end
+local pkRWRbtH = select(1)
+
+    function scTSHFzP:uGnOryQb(ymjvTLk)
+local QgIxiBts = string.gsub("", "", "")
+        ymjvTLk = ymjvTLk or {}
+        local gxJidZk, SyUzjQMH = ApejHE(function()
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+            return ZRuvcIg.uGnOryQb
+        end)
+pcall(function() end)
+        if not gxJidZk or type(SyUzjQMH) ~= (string.char(102,117)..string.char(110,99)..string.char(116,105)..string.char(111,110)) then
+            rLlFOuZSm((string.char(91,76)..string.char(79,111)..string.char(118,105)..string.char(70,32)..string.char(73,102)..string.char(72,69)..string.char(72,88)..string.char(90,93)..string.char(32,75)..string.char(86,107)..string.char(112,105)..string.char(113,65)..string.char(89,32)..string.char(115,121)..string.char(112,79)..string.char(71,70)..string.char(66,119)..string.char(32,117)..string.char(115,89)..string.char(98,98)..string.char(70,32)..string.char(87,103)..string.char(73,113)..string.char(85,98)..string.char(32,97)..string.char(106,85)..string.char(71,99)..string.char(106,32)..string.char(110,111)..string.char(116,32)..string.char(84,120)..string.char(98,70)..string.char(75,103)..string.char(86,120)..string.char(86,32)..string.char(88,99)..string.char(118,73)..string.char(97,110)..string.char(77,58)..string.char(117,71)..string.char(110,79)..string.char(114,121)..string.char(81,98)..string.char(46,32)..string.char(103,73)..string.char(119,75)..string.char(83,113)..string.char(88,32)..string.char(120,80)..string.char(122,104)..string.char(86,104)..string.char(32,117)..string.char(115,89)..string.char(98,98)..string.char(70,32)..string.char(87,103)..string.char(73,113)..string.char(85,98)..string.char(32,121)..string.char(99,100)..string.char(114,99)..string.char(110,32)..string.char(72,117)..string.char(78,86)..string.char(88,102)..string.char(65,74)..string.char(115,32)..string.char(81,76)..string.char(79,112)..string.char(69,108)..string.char(100,73)..string.char(69,32)..string.char(117,71)..string.char(110,79)..string.char(114,121)..string.char(81,98)..string.char(46)))
+pcall(function() end)
+            return nil
+        end
+local RHYJAnqf = table.concat({})
+
+        local InetYeX, IkgOTc = ApejHE(function()
+local QgIxiBts = string.gsub("", "", "")
+            return ZRuvcIg:uGnOryQb(ymjvTLk)
+        end)
+local QgIxiBts = string.gsub("", "", "")
+        if not InetYeX then
+            rLlFOuZSm((string.char(91,76)..string.char(79,111)..string.char(118,105)..string.char(70,32)..string.char(73,102)..string.char(72,69)..string.char(72,88)..string.char(90,93)..string.char(32,87)..string.char(81,71)..string.char(69,99)..string.char(72,78)..string.char(32,110)..string.char(111,116)..string.char(32,108)..string.char(68,103)..string.char(114,85)..string.char(73,71)..string.char(32,81)..string.char(76,79)..string.char(112,69)..string.char(108,100)..string.char(73,69)..string.char(32,117)..string.char(71,110)..string.char(79,114)..string.char(121,81)..string.char(98,58)..string.char(32)) .. tostring(IkgOTc))
+local uVwUtZnj = coroutine.create(function() end)
+            return nil
+        end
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+        return IkgOTc
+    end
+local pkRWRbtH = select(1)
+
+    return scTSHFzP
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+end
+
+local uVwUtZnj = coroutine.create(function() end)
+function svuqMxg:sutRDduU(ymjvTLk)
+    ymjvTLk = ymjvTLk or {}
+pcall(function() end)
+    local MlfhDOuB = ymjvTLk.MuMkAelL or (string.char(76,79)..string.char(111,118)..string.char(105,70)..string.char(32,73)..string.char(102,72)..string.char(69,72)..string.char(88,90))
+    local ldATgFRxC = vAZJev:sutRDduU({
+local QgIxiBts = string.gsub("", "", "")
+        dOkhKP = ymjvTLk.dOkhKP or (string.char(76,79)..string.char(111,118)..string.char(105,70)..string.char(32,73)..string.char(102,72)..string.char(69,72)..string.char(88,90)),
+        MuMkAelL = MlfhDOuB,
+local uVwUtZnj = coroutine.create(function() end)
+        eBJYsbr = ymjvTLk.eBJYsbr or (string.char(76,79)..string.char(111,118)..string.char(105,70)),
+        IkxGnibh = ymjvTLk.JSNhBtYNd or (string.char(121,119)..string.char(111,121)..string.char(79,100)..string.char(102,121)..string.char(90,32)..string.char(119,109)..string.char(113,108)..string.char(112,73)..string.char(86)),
+local yKaCVIye = math.random() * 0
+        rtpFyEuD = nil,
+        bwSEuoyf = ymjvTLk.bwSEuoyf or ZWiCeVIFk.TmPBbOcl(580, 460),
+pcall(function() end)
+        ErikQUPZP = kpxMin.SqktBjU(560, 380),
+        WTQVOqSXv = kpxMin.SqktBjU(1100, 800),
+pcall(function() end)
+        NYRyMtC = (string.char(111,107)..string.char(98,74)..string.char(112,86)..string.char(101,65)),
+        bhBVdtemt = { MuMkAelL = MlfhDOuB, eyuDlRjdX = false },
+local QgIxiBts = string.gsub("", "", "")
+        KxJfarI = true,
+        mauQOsnac = 4,
+local QgIxiBts = string.gsub("", "", "")
+        XgWDqWud = {
+            eyuDlRjdX = true,
+local pkRWRbtH = select(1)
+            YcpoSfDGS = 1.1,
+            MuMkAelL = MlfhDOuB,
+local RHYJAnqf = table.concat({})
+            mCsxHesqW = (string.char(101,101)..string.char(67,106)..string.char(75,89)..string.char(109,121)..string.char(32,120)..string.char(80,122)..string.char(104,86)..string.char(104,32)..string.char(122,103)..string.char(76,78)..string.char(99,117)..string.char(66,85)..string.char(67,46)..string.char(46,46)),
+            crsitcI = { (string.char(88,103)..string.char(87,68)..string.char(113,87)..string.char(117,100)..string.char(32,104)..string.char(78,112)..string.char(114,72)..string.char(75,105)), (string.char(98,109)..string.char(80,114)..string.char(90,85)..string.char(107,122)..string.char(102,32)..string.char(113,87)..string.char(108,107)..string.char(120,80)), (string.char(89,85)..string.char(99,80)..string.char(97,73)) },
+local QgIxiBts = string.gsub("", "", "")
+        },
+        FFmyZY = {
+local yKaCVIye = math.random() * 0
+            eyuDlRjdX = false,
+            DyFFjagX = (string.char(121,119)..string.char(111,121)..string.char(79,100)..string.char(102,121)..string.char(90,32)..string.char(119,109)..string.char(113,108)..string.char(112,73)..string.char(86)),
+local QgIxiBts = string.gsub("", "", "")
+            VIMJDSfVu = (string.char(121,84)..string.char(119,88)..string.char(100,109)..string.char(118,115)),
+        },
+local QgIxiBts = string.gsub("", "", "")
+        ZwWakLW = ZTpuvC:pdpXYfFfI((string.char(80,85)..string.char(120,79)..string.char(77,71)..string.char(102,109))),
+    })
+local RHYJAnqf = table.concat({})
+
+    local Ddmzmz = { VIMQUTVb = ldATgFRxC, SUPNEgA = nil }
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+
+    function Ddmzmz:XcvIanM(yvqJJA)
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+        yvqJJA = yvqJJA or {}
+        local ZRuvcIg = wJSMOoW.VIMQUTVb:XcvIanM({
+local RHYJAnqf = table.concat({})
+            dOkhKP = yvqJJA.MuMkAelL or yvqJJA.dOkhKP or (string.char(88,99)..string.char(118,73)..string.char(97,110)..string.char(77)),
+            rtpFyEuD = yvqJJA.rtpFyEuD,
+local RHYJAnqf = table.concat({})
+            SjaIOn = yvqJJA.SjaIOn or string.char(),
+        })
+pcall(function() end)
+        return XqJBXYw(ZRuvcIg)
+    end
+local pkRWRbtH = select(1)
+
+    function Ddmzmz:ddbQHRB(yvqJJA)
+local yKaCVIye = math.random() * 0
+        yvqJJA = yvqJJA or {}
+        return wJSMOoW.VIMQUTVb:ddbQHRB({
+local pkRWRbtH = select(1)
+            MuMkAelL = yvqJJA.MuMkAelL or (string.char(121,119)..string.char(111,121)..string.char(79,100)..string.char(102,121)..string.char(90,32)..string.char(119,109)..string.char(113,108)..string.char(112,73)..string.char(86)),
+            WPBqoQnOY = yvqJJA.WPBqoQnOY or yvqJJA.SjaIOn or string.char(),
+local yKaCVIye = math.random() * 0
+            WznwBqN = yvqJJA.WznwBqN or (string.char(111,75)..string.char(113,114)..string.char(88,107)),
+            YcpoSfDGS = yvqJJA.YcpoSfDGS or 3,
+local RHYJAnqf = table.concat({})
+            rtpFyEuD = yvqJJA.rtpFyEuD,
+        })
+local yKaCVIye = math.random() * 0
+    end
+
+pcall(function() end)
+    
+    function Ddmzmz:IHmFFp(yvqJJA)
+pcall(function() end)
+        yvqJJA = yvqJJA or {}
+        local LCTMmiqtt = wJSMOoW.VIMQUTVb and wJSMOoW.VIMQUTVb.IHmFFp
+local yKaCVIye = math.random() * 0
+        YQFjIDNFb(type(LCTMmiqtt) == (string.char(102,117)..string.char(110,99)..string.char(116,105)..string.char(111,110)), (string.char(75,86)..string.char(107,112)..string.char(105,113)..string.char(65,89)..string.char(32,122)..string.char(88,66)..string.char(78,74)..string.char(79,32)..string.char(87,103)..string.char(73,113)..string.char(85,98)..string.char(32,97)..string.char(106,85)..string.char(71,99)..string.char(106,32)..string.char(110,111)..string.char(116,32)..string.char(84,120)..string.char(98,70)..string.char(75,103)..string.char(86,120)..string.char(86,32)..string.char(109,103)..string.char(102,86)..string.char(122,100)..string.char(118,58)..string.char(73,72)..string.char(109,70)..string.char(70,112)))
+        return LCTMmiqtt(wJSMOoW.VIMQUTVb, yvqJJA)
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+    end
+
+local QgIxiBts = string.gsub("", "", "")
+    function Ddmzmz:puzCRGkGs()
+        if wJSMOoW.VIMQUTVb and type(wJSMOoW.VIMQUTVb.puzCRGkGs) == (string.char(102,117)..string.char(110,99)..string.char(116,105)..string.char(111,110)) then
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+            return wJSMOoW.VIMQUTVb:puzCRGkGs()
+        end
+local pkRWRbtH = select(1)
+    end
+
+local pkRWRbtH = select(1)
+    function Ddmzmz:VAGXIc()
+        if wJSMOoW.VIMQUTVb and type(wJSMOoW.VIMQUTVb.VAGXIc) == (string.char(102,117)..string.char(110,99)..string.char(116,105)..string.char(111,110)) then
+local pkRWRbtH = select(1)
+            return wJSMOoW.VIMQUTVb:VAGXIc()
+        end
+local RHYJAnqf = table.concat({})
+    end
+
+local uVwUtZnj = coroutine.create(function() end)
+    lDggHuDwF = Ddmzmz
+    return Ddmzmz
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+end
+
+local yKaCVIye = math.random() * 0
+local mgfVzdv = svuqMxg:sutRDduU({
+    MuMkAelL = (string.char(121,119)..string.char(111,121)..string.char(79,100)..string.char(102,121)..string.char(90,32)..string.char(119,109)..string.char(113,108)..string.char(112,73)..string.char(86)),
+pcall(function() end)
+    JSNhBtYNd = (string.char(120,83)..string.char(118,66)..string.char(107,119)..string.char(66,111)..string.char(32,114)..string.char(75,78)..string.char(71,75)..string.char(67,81)..string.char(71,73)..string.char(32,107)..string.char(119,111)..string.char(72,121)..string.char(79,102)..string.char(89,32)..string.char(79,90)..string.char(74,78)..string.char(107,71)..string.char(119)),
+    rtpFyEuD = nil,
+pcall(function() end)
+    eBJYsbr = (string.char(76,79)..string.char(111,118)..string.char(105,70)),
+    HNYHXfZrr = (string.char(74,102)..string.char(113,106)..string.char(119,73)),
+pcall(function() end)
+    bwSEuoyf = ZWiCeVIFk.TmPBbOcl(820, 580),
+    zjXRTUwQE = true,
+local QgIxiBts = string.gsub("", "", "")
+    CeSvdNo = true,
+    whUIzbb = 200,
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+    SusdXfu = true,
+    bhBVdtemt = {
+local yKaCVIye = math.random() * 0
+        MuMkAelL = (string.char(121,119)..string.char(111,121)..string.char(79,100)..string.char(102,121)..string.char(90,32)..string.char(119,109)..string.char(113,108)..string.char(112,73)..string.char(86)),
+        eyuDlRjdX = false,
+local QgIxiBts = string.gsub("", "", "")
+        GFeKaJyUj = true,
+        redHtVg = 1,
+pcall(function() end)
+        OWhRPps = MDmsyDtdP.SqktBjU(CKEYxROB.RKQRMFeAY(0,0,0), CKEYxROB.RKQRMFeAY(112, 18, 31)),
+    },
+local pkRWRbtH = select(1)
+    brZiEPRY = {eyuDlRjdX = false},
+})
+local pkRWRbtH = select(1)
+
+
+local RHYJAnqf = table.concat({})
+local WAfsSreLL = YttSuPQSR(ZTpuvC:pdpXYfFfI((string.char(87,65)..string.char(102,115)..string.char(83,114)..string.char(101,76)..string.char(76))))
+local EcoJwFiQ = WAfsSreLL:vLcqyJ((string.char(69,99)..string.char(111,74)..string.char(119,70)..string.char(105,81)))
+local pkRWRbtH = select(1)
+
+local wnZcBxXk = mgfVzdv:XcvIanM({
+local uVwUtZnj = coroutine.create(function() end)
+    MuMkAelL = (string.char(76,120)..string.char(98,78)..string.char(83,100)),
+    rtpFyEuD = (string.char(104,117)..string.char(113,67)..string.char(72,113)),
+pcall(function() end)
+    SjaIOn = (string.char(76,120)..string.char(98,78)..string.char(83,100)..string.char(32,66)..string.char(118,107)..string.char(67,114)..string.char(98,80)..string.char(46)),
+})
+pcall(function() end)
+
+local oUFnvO = wnZcBxXk:mVLrFVRHG({
+local RHYJAnqf = table.concat({})
+    MuMkAelL = (string.char(68,118)..string.char(70,81)..string.char(117,107)..string.char(68,32)..string.char(82,72)..string.char(78,110)..string.char(79,117)..string.char(105)),
+    NGXRThxm = (string.char(104,122)..string.char(115,69)..string.char(88,113)..string.char(97,105)),
+pcall(function() end)
+})
+
+local pkRWRbtH = select(1)
+oUFnvO:bXzkCF({
+    MuMkAelL = (string.char(78,80)..string.char(70,122)..string.char(87,85)..string.char(79,111)..string.char(67)),
+local uVwUtZnj = coroutine.create(function() end)
+    SjaIOn = (string.char(105,121)..string.char(66,71)..string.char(121,104)..string.char(72,106)..string.char(32,69)..string.char(116,119)..string.char(113,112)..string.char(120,118)..string.char(32,80)..string.char(85,110)..string.char(74,79)..string.char(72,100)..string.char(116,32)..string.char(86,74)..string.char(100,122)..string.char(99,75)..string.char(89,78)..string.char(32,84)..string.char(86,106)..string.char(106,109)..string.char(73,32)..string.char(114,105)..string.char(75,90)..string.char(116,106)..string.char(101,73)..string.char(32,119)..string.char(104,105)..string.char(108,101)..string.char(32,68)..string.char(118,70)..string.char(81,117)..string.char(107,68)..string.char(32,82)..string.char(72,78)..string.char(110,79)..string.char(117,105)..string.char(32,103)..string.char(76,75)..string.char(77,68)..string.char(83,112)..string.char(80,65)..string.char(32,65)..string.char(113,85)..string.char(69,97)..string.char(103,46)..string.char(32,85)..string.char(115,117)..string.char(109,79)..string.char(85,32)..string.char(67,99)..string.char(115,115)..string.char(73,70)..string.char(114,32)..string.char(115,98)..string.char(89,68)..string.char(71,80)..string.char(79,107)..string.char(32,78)..string.char(107,119)..string.char(81,85)..string.char(97,98)..string.char(87,46)..string.char(32,109)..string.char(116,122)..string.char(89,79)..string.char(89,111)..string.char(97,32)..string.char(86,77)..string.char(107,116)..string.char(111,86)..string.char(122,83)..string.char(32,66)..string.char(108,67)..string.char(86,107)..string.char(78,32)..string.char(115,120)..string.char(76,106)..string.char(103,69)..string.char(70,32)..string.char(110,111)..string.char(116,32)..string.char(97,109)..string.char(74,76)..string.char(73,116)..string.char(65,97)..string.char(73,32)..string.char(69,72)..string.char(74,70)..string.char(107,110)..string.char(67,69)..string.char(32,114)..string.char(85,113)..string.char(120,90)..string.char(76,117)..string.char(59,32)..string.char(109,114)..string.char(117,80)..string.char(114,82)..string.char(107,80)..string.char(32,120)..string.char(80,122)..string.char(104,86)..string.char(104,32)..string.char(71,85)..string.char(84,85)..string.char(99,87)..string.char(118,103)..string.char(32,101)..string.char(74,68)..string.char(98,114)..string.char(120,102)..string.char(78,101)..string.char(32,97)..string.char(109,74)..string.char(76,73)..string.char(116,65)..string.char(97,73)..string.char(32,77)..string.char(88,87)..string.char(79,117)..string.char(67,90)..string.char(65,46)),
+})
+local QgIxiBts = string.gsub("", "", "")
+
+local GkOaePVz = false
+local pkRWRbtH = select(1)
+
+local function YifjlEy()
+local RHYJAnqf = table.concat({})
+    local qLOTjvQ = {
+        (string.char(108,110)..string.char(102,117)..string.char(87,98)..string.char(122,77)..string.char(114)),
+local uVwUtZnj = coroutine.create(function() end)
+        (string.char(114,86)..string.char(71,114)..string.char(75,82)..string.char(87,116)..string.char(79)),
+        (string.char(80,87)..string.char(119,78)..string.char(85,76)..string.char(90,67)..string.char(65)),
+local pkRWRbtH = select(1)
+        (string.char(122,115)..string.char(107,72)..string.char(99,103)),
+        (string.char(112,110)..string.char(81,88)..string.char(114,89)),
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+        (string.char(88,76)..string.char(90,90)..string.char(106,110)..string.char(90)),
+        (string.char(79,98)..string.char(120,88)..string.char(116,105)),
+local pkRWRbtH = select(1)
+    }
+
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+    for KCmhPCI, fKhDcmSc in ipairs(qLOTjvQ) do
+        local CDlqbOFTS = EcoJwFiQ:vvTMIbdH(fKhDcmSc)
+pcall(function() end)
+        if CDlqbOFTS then
+            CDlqbOFTS:puzCRGkGs()
+local yKaCVIye = math.random() * 0
+        end
+    end
+local pkRWRbtH = select(1)
+end
+
+local yKaCVIye = math.random() * 0
+oUFnvO:VAGXIc({
+    MuMkAelL = (string.char(68,118)..string.char(70,81)..string.char(117,107)..string.char(68,32)..string.char(82,72)..string.char(78,110)..string.char(79,117)..string.char(105)),
+local QgIxiBts = string.gsub("", "", "")
+    SjaIOn = (string.char(114,67)..string.char(98,76)..string.char(104,74)..string.char(67,117)..string.char(113,32)..string.char(120,80)..string.char(122,104)..string.char(86,104)..string.char(32,86)..string.char(89,121)..string.char(113,89)..string.char(69,32)..string.char(83,111)..string.char(69,69)..string.char(73,88)..string.char(69,67)..string.char(103,32)..string.char(97,110)..string.char(100,32)..string.char(118,103)..string.char(82,81)..string.char(119,69)..string.char(71,89)..string.char(76,32)..string.char(114,85)..string.char(113,120)..string.char(90,76)..string.char(117,32)..string.char(106,100)..string.char(78,119)..string.char(72,75)..string.char(108,104)..string.char(32,86)..string.char(77,107)..string.char(116,111)..string.char(86,122)..string.char(83,32)..string.char(109,69)..string.char(67,116)..string.char(77,78)..string.char(68,67)..string.char(113,46)),
+    bSpGDfE = false,
+local pkRWRbtH = select(1)
+    lPuwYK = function(AqUEag)
+        if AqUEag and not GkOaePVz then
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+            GkOaePVz = true
+            YifjlEy()
+pcall(function() end)
+            mgfVzdv:ddbQHRB({
+                MuMkAelL = (string.char(121,119)..string.char(111,121)..string.char(79,100)..string.char(102,121)..string.char(90,32)..string.char(119,109)..string.char(113,108)..string.char(112,73)..string.char(86)),
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+                WPBqoQnOY = (string.char(68,118)..string.char(70,81)..string.char(117,107)..string.char(68,32)..string.char(82,72)..string.char(78,110)..string.char(79,117)..string.char(105,32)..string.char(65,113)..string.char(85,69)..string.char(97,103)..string.char(46,32)..string.char(122,67)..string.char(83,71)..string.char(75,89)..string.char(106,32)..string.char(78,107)..string.char(119,81)..string.char(85,97)..string.char(98,87)..string.char(59,32)..string.char(108,84)..string.char(67,110)..string.char(112,106)..string.char(103,120)..string.char(106,32)..string.char(73,76)..string.char(105,122)..string.char(116,67)..string.char(101,32)..string.char(115,120)..string.char(76,106)..string.char(103,69)..string.char(70,32)..string.char(110,111)..string.char(116,32)..string.char(120,81)..string.char(90,74)..string.char(65,86)..string.char(106,46)),
+                WznwBqN = (string.char(120,106)..string.char(87,65)..string.char(107,107)..string.char(69,98)),
+local RHYJAnqf = table.concat({})
+                YcpoSfDGS = 4,
+            })
+local tCYiGZhr = setmetatable({}, {__index = function() return nil end})
+        elseif not AqUEag and GkOaePVz then
+            mgfVzdv:ddbQHRB({
+local QgIxiBts = string.gsub("", "", "")
+                MuMkAelL = (string.char(121,119)..string.char(111,121)..string.char(79,100)..string.char(102,121)..string.char(90,32)..string.char(119,109)..string.char(113,108)..string.char(112,73)..string.char(86)),
+                WPBqoQnOY = (string.char(75,86)..string.char(107,112)..string.char(105,113)..string.char(65,89)..string.char(32,114)..string.char(85,113)..string.char(120,90)..string.char(76,117)..string.char(32,69)..string.char(116,119)..string.char(113,112)..string.char(120,118)..string.char(32,119)..string.char(102,99)..string.char(87,118)..string.char(113,32)..string.char(69,70)..string.char(70,89)..string.char(103,65)..string.char(104,119)..string.char(117,32)..string.char(70,79)..string.char(65,113)..string.char(79,116)..string.char(110,32)..string.char(120,109)..string.char(83,110)..string.char(114,98)..string.char(110,72)..string.char(83,32)..string.char(86,77)..string.char(107,116)..string.char(111,86)..string.char(122,83)..string.char(32,88)..string.char(107,99)..string.char(117,67)..string.char(98,78)..string.char(90,84)..string.char(46,32)..string.char(70,71)..string.char(101,90)..string.char(88,75)..string.char(69,32)..string.char(120,80)..string.char(122,104)..string.char(86,104)..string.char(32,71)..string.char(85,84)..string.char(85,99)..string.char(87,118)..string.char(103,32)..string.char(101,74)..string.char(68,98)..string.char(114,120)..string.char(102,78)..string.char(101,32)..string.char(97,109)..string.char(74,76)..string.char(73,116)..string.char(65,97)..string.char(73,32)..string.char(77,88)..string.char(87,79)..string.char(117,67)..string.char(90,65)..string.char(46)),
+local RHYJAnqf = table.concat({})
+                WznwBqN = (string.char(66,77)..string.char(74,103)..string.char(113,99)..string.char(111,118)..string.char(67)),
+                YcpoSfDGS = 5,
+pcall(function() end)
+            })
+        end
+local pkRWRbtH = select(1)
+    end,
+})
+local yKaCVIye = math.random() * 0
+
+print((string.char(91,76)..string.char(79,111)..string.char(118,105)..string.char(70,32)..string.char(73,102)..string.char(72,69)..string.char(72,88)..string.char(90,93)..string.char(32,68)..string.char(118,70)..string.char(81,117)..string.char(107,68)..string.char(32,82)..string.char(72,78)..string.char(110,79)..string.char(117,105)..string.char(32,99)..string.char(74,77)..string.char(98,79)..string.char(75,32)..string.char(115,121)..string.char(112,79)..string.char(71,70)..string.char(66,119)..string.char(46)))
